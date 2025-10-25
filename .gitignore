@@ -1,0 +1,6 @@
+# File Konfigurasi Sensitif
+.env
+
+# Folder dan File Volume Data Docker (Tidak di-commit)
+pgdata_*
+pgadmin_data_*
